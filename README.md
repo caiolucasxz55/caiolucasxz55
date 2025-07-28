@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Idiomas-Português%20%7C%20Inglês-brightgreen" alt="Idiomas: Português e Inglês" />
 </p>
 
-## 🙋 Sobre Mim
+##  Sobre Mim
 
 <img align="right" alt="GIF de programação" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 

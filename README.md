@@ -23,7 +23,7 @@ Sou **Caio Lucas Silva Gomes**, estudante de **Análise e Desenvolvimento de Sis
 | :-------------------------- | :---------------------------- | :----------------------------------------------------------- |
 | **Portfólio Caio**          | Next.js, TypeScript, Tailwind | Site pessoal com design moderno e responsivo                 |
 | **ClimaCare**               | Python, Node, Oracle, Next.js | Dashboard climático com sistema de doações para ONGs         |
-| **MULLE (Desafio CCR)**     | React Native, TypeScript      | Assistente virtual com chatbot e criação de rotas para metrô |
+| **SmartGuide (Desafio CCR)**     | React Native, TypeScript      | Assistente virtual com chatbot e criação de rotas para metrô |
 | **API em Java com Quarkus** | Java 17, Quarkus, Oracle      | Back-end para serviços REST de alta performance              |
 
 ## 🧠 Tecnologias e Ferramentas

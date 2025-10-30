@@ -12,7 +12,6 @@
 Sou **Caio Lucas Silva Gomes**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixonado por **Python, automação, inteligência artificial** e **desenvolvimento web com Django**. Tenho experiência em projetos que envolvem **Dashboards climáticos**, **assistentes virtuais**, e **integração entre front-end e back-end**, sempre buscando aplicar tecnologia com propósito social.
 
 * 🧠 Forte interesse em **IA, automação, bots e análise de dados**
-* 💻 Experiência prática com **Django, FastAPI, Oracle, Flask e integração com front-end**
 * 🌎 Participo de projetos que envolvem **sustentabilidade e mobilidade urbana**
 * 🚀 Stack atual: Python, JavaScript, TypeScript, React, Next.js, Tailwind, Oracle, Docker
 * 🤝 Aberto para colaboração em projetos open-source ou acadêmicos

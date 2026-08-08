@@ -1,91 +1,153 @@
-# Olá, eu sou o **Caio Lucas!** <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"/>
+# 👋 Olá, eu sou o Caio Lucas!
 
-<p>
-  <img src="https://img.shields.io/badge/Moro-Brasil-green" alt="Localização: Brasil" />
-  <img src="https://img.shields.io/badge/Idiomas-Português%20%7C%20Inglês-brightgreen" alt="Idiomas: Português e Inglês" />
-</p>
+### Full Stack Developer | Python & FastAPI | Next.js | AI/ML | Cloud & DevOps
 
-##  Sobre Mim
+Sou **Caio Lucas Silva Gomes**, Desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sistemas**.
 
-<img align="right" alt="GIF de programação" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
+Atualmente atuo profissionalmente com desenvolvimento de aplicações web, trabalhando principalmente com **Python, FastAPI, Next.js e TypeScript**, além de atuar na integração de soluções de **Inteligência Artificial, Machine Learning, CI/CD e Cloud Computing**.
 
-Sou **Caio Lucas Silva Gomes**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixonado por **Python, automação, inteligência artificial** e **desenvolvimento web com Django**. Tenho experiência em projetos que envolvem **Dashboards climáticos**, **assistentes virtuais**, e **integração entre front-end e back-end**, sempre buscando aplicar tecnologia com propósito social.
+Tenho interesse especial em construir soluções que unam **engenharia de software, inteligência artificial e automação**, sempre buscando código organizado, seguro, performático e fácil de manter.
 
-* 🧠 Forte interesse em **IA, automação, bots e análise de dados**
-* 🌎 Participo de projetos que envolvem **sustentabilidade e mobilidade urbana**
-* 🚀 Stack atual: Python, JavaScript, TypeScript, React, Next.js, Tailwind, Oracle, Docker
-* 🤝 Aberto para colaboração em projetos open-source ou acadêmicos
+---
 
-## 🚀 Projetos em Destaque
+## 🚀 Sobre mim
 
-| 📌 Projeto                  | Tecnologias                   | Descrição                                                    |
-| :-------------------------- | :---------------------------- | :----------------------------------------------------------- |
-| **Portfólio Caio**          | Next.js, TypeScript, Tailwind | Site pessoal com design moderno e responsivo                 |
-| **ClimaCare**               | Python, Node, Oracle, Next.js | Dashboard climático com sistema de doações para ONGs         |
-| **SmartGuide (Desafio CCR)**     | React Native, TypeScript      | Assistente virtual com chatbot e criação de rotas para metrô |
-| **API em Java com Quarkus** | Java 17, Quarkus, Oracle      | Back-end para serviços REST de alta performance              |
+- 💻 Desenvolvedor **Full Stack** com atuação em frontend e backend
+- 🐍 Experiência profissional com **Python e FastAPI**
+- ⚛️ Desenvolvimento de interfaces com **React, Next.js e TypeScript**
+- 🤖 Experiência com **LLMs, Chatbots, RAG e integração de soluções de IA**
+- 🧠 Experiência com **Machine Learning e scripts de ML em Python**
+- 👁️ Integração de tecnologias de **Eye Tracking** em aplicações
+- ☁️ Experiência com **Microsoft Azure, AWS e Docker**
+- ⚙️ Experiência com **CI/CD e GitHub Actions**
+- 🔐 Desenvolvimento com foco em **segurança, performance e boas práticas**
+- 🏗️ Interesse em **arquitetura de software, Clean Code e sistemas escaláveis**
 
-## 🧠 Tecnologias e Ferramentas
+---
 
-### 👨‍💻 Linguagens de Programação
+## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+### 💻 Linguagens
 
-### 🌐 Front-End
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge)
+### 🌐 Frontend
 
-### ⚙️ Back-End e Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ED4A00?style=for-the-badge\&logo=n8n\&logoColor=white)
+### ⚙️ Backend
 
-### ☁️ Cloud e DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+### 🧠 AI & Machine Learning
 
-### 🧠 Ciência de Dados e Automação
+- Large Language Models (LLMs)
+- RAG — Retrieval-Augmented Generation
+- AI Chatbots
+- Machine Learning com Python
+- Integração e treinamento de modelos
+- Integração de APIs e serviços de IA
+- Eye Tracking
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+### 🗄️ Bancos de Dados
 
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔧 DevOps
+### ☁️ Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 📈 Estatísticas GitHub
+- CI/CD
+- Azure Web Apps
+- Azure Container Registry
+- Self-hosting
+- DevOps
+- Cloud deployment
+- Infrastructure configuration
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=caiolucasxz55&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
-  <img width="390" src="https://streak-stats.demolab.com/?user=caiolucasxz55&count_private=true&theme=react&border_radius=10" alt="Streak stats" />
-</div>
+---
 
-## 📬 Contato
+## ⭐ Projetos em Destaque
 
-<p align="center">
-  <a target="_blank" href="www.linkedin.com/in/caio-lucas-a892b4324">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a target="_blank" href="caiolucasxz55@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🧠 CV Matcher
+**Next.js · TypeScript · Python · AI · RAG · PDF**
 
-<div align="center">
-  <sub>“Evoluindo uma linha de código por vez.”</sub>
-</div>
+Aplicação para adaptação inteligente de currículos de acordo com descrições de vagas.
+
+O sistema analisa os requisitos da vaga, identifica tecnologias e palavras-chave, compara com o currículo base e cria uma versão direcionada à oportunidade.
+
+O projeto possui como princípio fundamental **não inventar experiências**, utilizando IA principalmente para análise, matching e validação das informações.
+
+---
+
+### 🚇 SmartGuide
+**React Native · TypeScript**
+
+Aplicação voltada ao planejamento de rotas no sistema metroviário de São Paulo.
+
+Possui funcionalidades para visualização de estações, cálculo de rotas, favoritos e consulta de informações, com foco em **acessibilidade e usabilidade**.
+
+---
+
+### 🌱 ClimaCare
+**Python · Node.js · Next.js · Oracle**
+
+Projeto voltado à apresentação e análise de informações climáticas, integrando tecnologia e impacto social através de recursos relacionados a sustentabilidade e apoio a organizações.
+
+---
+
+### 🌐 Portfólio
+**Next.js · TypeScript**
+
+Meu portfólio pessoal, desenvolvido para apresentar minha experiência profissional, projetos e tecnologias.
+
+---
+
+## 🏗️ Atualmente estudando e desenvolvendo
+
+- 🤖 Arquiteturas de **RAG e aplicações com LLMs**
+- 🧠 Integração de **IA em aplicações reais**
+- ☁️ **Cloud Architecture e DevOps**
+- ⚙️ Arquitetura e desenvolvimento de **APIs escaláveis**
+- 🚀 Performance e boas práticas de aplicações **Full Stack**
+- 🔐 Segurança de aplicações e APIs
+
+---
+
+## 📊 GitHub
+
+<!-- Adicione aqui seus cards de estatísticas do GitHub caso queira utilizá-los -->
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades, projetos e colaborações relacionadas a:
+
+- Full Stack Development
+- Backend / Python
+- Inteligência Artificial
+- Machine Learning
+- Cloud & DevOps
+- Automação
+
+📧 **Email:** seu-email@email.com
+
+💼 **LinkedIn:** [Seu LinkedIn](#)
+
+🌐 **Portfólio:** [Meu Portfólio](#)
+
+🐙 **GitHub:** [@caiolucasxz55](https://github.com/caiolucasxz55)

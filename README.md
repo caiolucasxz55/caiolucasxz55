@@ -27,13 +27,6 @@ Atuo profissionalmente no desenvolvimento e evolução de aplicações web utili
 Meu foco é transformar problemas em soluções **seguras, performáticas, escaláveis e fáceis de manter**.
 
 <br>
-
-<div align="center">
-
-> 🧠 **Code with purpose. Build with intelligence.**
-
-</div>
-
 ---
 
 # 👨‍💻 Sobre mim
@@ -120,53 +113,6 @@ Tenho experiência com:
 - ☁️ **Self-hosting de soluções de IA**
 - ⚡ Otimização de consumo e custos de tokens
 
----
-
-# 🚀 Projetos em Destaque
-
-<div align="center">
-
-## 🚇 SmartGuide
-
-### `React Native • TypeScript`
-
-</div>
-
-Aplicação voltada ao planejamento de rotas no sistema metroviário de São Paulo.
-
-Possui funcionalidades para:
-
-- 🗺️ Visualização de estações
-- 🚇 Planejamento de rotas
-- ⭐ Rotas favoritas
-- ℹ️ Informações sobre estações
-- ♿ Foco em acessibilidade e usabilidade
-
----
-
-<div align="center">
-
-## 🌱 ClimaCare
-
-### `Python • Node.js • Next.js • Oracle`
-
-</div>
-
-Projeto envolvendo **dados climáticos, tecnologia e impacto social**, com dashboard e funcionalidades voltadas à sustentabilidade e apoio a organizações.
-
----
-
-<div align="center">
-
-## 🌐 Meu Portfólio
-
-### `Next.js • TypeScript`
-
-</div>
-
-Meu portfólio pessoal para apresentação de experiências, projetos e tecnologias.
-
----
 
 # 📊 GitHub Analytics
 
@@ -184,33 +130,6 @@ Meu portfólio pessoal para apresentação de experiências, projetos e tecnolog
 
 ---
 
-# 🐍 My Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🎯 Atualmente
-
-<div align="center">
-
-| 🧠 Área | 🚀 Foco |
-|:---:|:---|
-| 🤖 **AI** | LLMs, RAG e aplicações inteligentes |
-| 🐍 **Backend** | Python & FastAPI |
-| ⚛️ **Frontend** | Next.js, React & TypeScript |
-| ☁️ **Cloud** | Azure & AWS |
-| ⚙️ **DevOps** | CI/CD, Docker & automação |
-| 🏗️ **Engenharia** | Arquitetura, Clean Code & performance |
-
-</div>
-
----
-
 # 📚 Formação
 
 ### 🎓 Análise e Desenvolvimento de Sistemas
@@ -218,16 +137,6 @@ Meu portfólio pessoal para apresentação de experiências, projetos e tecnolog
 **FIAP — Centro Universitário**
 
 `2026`
-
----
-
-# 🌎 Idiomas
-
-🇺🇸 **Inglês** — Avançado
-
-🇪🇸 **Espanhol** — Intermediário
-
----
 
 # 📫 Vamos conversar?
 

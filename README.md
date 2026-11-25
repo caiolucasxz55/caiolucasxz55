@@ -39,7 +39,7 @@ Tenho especial interesse em **IA, automação de processos, arquitetura de softw
 **Frontend & Backend**
 
 <div>
-<img height="30" src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,fastapi,flask,spring,django" />
+<img height="30" src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,fastapi,spring," />
 </div>
 
 **Banco de dados**
